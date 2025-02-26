@@ -15,3 +15,9 @@
 6) Dicionários (dict) |
 7) Booleanos (bool) | verdadeiro = True
 
+
+
+
+## DESAFIO: PROGRAMA DE CÁLCULO DE KPI
+
+![alt text](image.png)
