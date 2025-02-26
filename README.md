@@ -19,5 +19,3 @@
 
 
 ## DESAFIO: PROGRAMA DE CÁLCULO DE KPI
-
-![alt text](image.png)
