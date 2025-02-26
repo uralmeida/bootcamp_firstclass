@@ -12,4 +12,4 @@
 #Exercício 02
 ##Criar um programa onde o usuário digita dois valores e apareça a soma:
 
-print(input("Digite um valor: ") + input("Digite o segundo valor: "))
+print(int(input("Digite um valor: ")) + int(input("Digite o segundo valor: ")))
