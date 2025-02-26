@@ -14,3 +14,11 @@
 
 #print(int(input("Digite um valor: ")) + int(input("Digite o segundo valor: ")))
 
+#Exercírio 03
+##Refatore o exercício 02 atribuindo variáveis
+
+#print(int(input("Digite um valor: ")) + int(input("Digite o segundo valor: ")))
+
+nome = str(input("Digite seu nome: "))
+quantidade_de_caracteres = len(nome)
+print(quantidade_de_caracteres)
